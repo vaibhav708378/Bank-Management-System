@@ -35,7 +35,7 @@ Bank-Management-System
 │
 └── README.md
 
-##⚙️Learning Objectives
+## ⚙️Learning Objectives
 
 This project helps in understanding:
 Java programming fundamentals
