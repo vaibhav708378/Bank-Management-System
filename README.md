@@ -26,13 +26,35 @@ This project demonstrates fundamental programming concepts like **Object-Oriente
 ---
 
 ## 📂 Project Structure
-Bank-Management-System
+Bank-Management-System/
 │
-├── src
-│ ├── Bank.java
-│ ├── Account.java
-│ └── Main.java
+├── .idea/
+│   ├── artifacts/
+│   ├── libraries/
+│   ├── misc.xml
+│   ├── modules.xml
+│   └── workspace.xml
 │
+├── src/
+│   └── bank/
+│       ├── Conn.java
+│       ├── Login.java
+│       ├── SignupOne.java
+│       ├── SignupTwo.java
+│       ├── SignupThree.java
+│       ├── Deposit.java
+│       ├── Withdrawl.java
+│       ├── FastCash.java
+│       ├── Pin.java
+│       ├── MiniStatement.java
+│       └── BalanceEnquiry.java
+│
+├── Bank-Management-System/
+│   └── [project files]
+│
+├── jcalendar-tz-1.3.3-4.jar
+├── mysql-connector-java-8.0.28.jar
+├── Bank Management System.iml
 └── README.md
 
 ## ⚙️Learning Objectives
